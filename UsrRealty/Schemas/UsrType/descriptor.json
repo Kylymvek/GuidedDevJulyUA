@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "17d362e7-8455-4d1b-a93c-76f74b05d0a0",
+    "Name": "UsrType",
+    "ModifiedOnUtc": "\/Date(1784001169000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип недвижимости",
+    "DependsOn": []
+  }
+}

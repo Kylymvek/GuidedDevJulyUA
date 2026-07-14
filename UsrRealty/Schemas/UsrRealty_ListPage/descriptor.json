@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "1dc37884-d403-4757-b560-fe0e83850795",
     "Name": "UsrRealty_ListPage",
-    "ModifiedOnUtc": "\/Date(1783682000000)\/",
+    "ModifiedOnUtc": "\/Date(1784000097000)\/",
     "Parent": {
       "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
       "Name": "ListPageV2Template"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Недвижимость list page",
-    "DependsOn": []
+    "Caption": "Страница с реестром Недвижимость"
   }
 }
